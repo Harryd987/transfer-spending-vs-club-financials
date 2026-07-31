@@ -2,8 +2,7 @@
 
 ## What this is about
 I wanted to find out whether clubs that earn more money actually spend more on transfers. This came from watching how different Premier League clubs spend compared to their size - some clubs with huge revenues seem cautious in the transfer market while others spend way beyond what you'd expect, Tottenham just finished above relegation two years running while still spending over £237 million halfway through the summer 2026 transfer window. I wanted to see if there was an actual pattern in the data or if it's more random than people think. 
-I also had a look at which positions clubs tend to splash the most cash on.
-
+I also had a look at which positions clubs tend to spend the most on.
 ## The question
 Does a club's revenue actually predict how much they spend on transfers? 
 Where does most of the transfer money go by position?
@@ -29,6 +28,6 @@ Centre-backs and central midfielders get bought the most overall in terms of tot
 Open the notebook in Colab, upload the two CSV files when it prompts you, and run all the cells.
 
 ## Author
-Harry
+Harry Dawes
 
 
